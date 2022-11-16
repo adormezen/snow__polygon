@@ -20,8 +20,8 @@ var LeafIcon = L.Icon.extend({
 
 
 //иконки для маркеров, можно любые svg png
-var areaIcon = new LeafIcon({iconUrl: '/images/area.svg'});
-var trIcon = new LeafIcon({iconUrl: '/images/transparent.svg'})
+var areaIcon = new LeafIcon({iconUrl: 'images/area.svg'});
+var trIcon = new LeafIcon({iconUrl: 'images/transparent.svg'})
 
 
 
