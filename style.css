@@ -126,6 +126,7 @@ padding: 0 15px;
 #map {
     height: 300px;
     font-size: 14px;
+    box-shadow: 10px 13px 19px rgba(0, 0, 0, 0.2);
 }
 
 
